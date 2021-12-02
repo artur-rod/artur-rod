@@ -1,4 +1,4 @@
-## 👋🏻 Hello There!! I'm Artur Rodrigues...
+## 👋🏻 Hello There!! I'm Artur... A NodeJS developer
 <div align="center">
   <a href="https://github.com/artur-rod">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=artur-rod&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
