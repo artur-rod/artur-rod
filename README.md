@@ -5,6 +5,7 @@
 📌 Andradas, MG - Brasil <br>
 🤓 Integration Expert at <a href="https://www.semantix.ai/linkapi-agora-e-semantix">Semantix</a> <br>
 🧐 Always curious and passionate about the deep Tech and Programming World
+🚀 Studying NodeJS in <a href="https://github.com/rocketseat-education">Rocketseat</a> Ignite Bootcamp
 </p>
 
 <h3>Get in touch</h3>
