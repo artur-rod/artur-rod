@@ -3,7 +3,7 @@
 <p>
 📅 21 years <br>
 📌 Andradas, MG - Brasil <br>
-🤓 Junior Software Engineer at <a href="https://www.semantix.ai/linkapi-agora-e-semantix">Semantix</a> <br>
+🤓 Software Engineer at <a href="https://www.semantix.ai/linkapi-agora-e-semantix">Semantix</a> <br>
 🧐 Always curious and passionate about the deep Tech and Programming World <br>
 🚀 Studying NodeJS and React Native in <a href="https://github.com/rocketseat-education">Rocketseat</a> Ignite Bootcamp
 </p>
